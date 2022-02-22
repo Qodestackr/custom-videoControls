@@ -20,7 +20,6 @@ const makeCommit = (n) => {
     date: DATE,
   };
 
-
   console.log(DATE);
   jsonfile.writeFile(FILE_PATH, data, () => {
     simpleGit()
