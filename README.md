@@ -3,7 +3,6 @@
 ![alt text](https://img.shields.io/npm/v/moment.svg?style=flat "moment")
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
 Does your GitHub Graph looks like a noob with a few number of Commits and Push ? Do you want to have your contribution graph with lots of commit like pro. This project is to your rescue.
- 
 
 ## Table of Contents
 
@@ -26,7 +25,8 @@ cd Github_Graph
 
 The following command creates a directory named node_modules and installs all the required packages in that.
 
-```javascript
+
+```js
 npm install
 ```
 
