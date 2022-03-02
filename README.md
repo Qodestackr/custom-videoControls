@@ -19,6 +19,7 @@ Clone and fork the repository to make the changes in your local system.
 
 ```git-bash
 git clone https://github.com/iamrohitagg/GitHub_Graph.git
+
 cd Github_Graph
 ```
 
