@@ -1,4 +1,4 @@
-# GitHub Bot
+# GitHub Bot🚀
 
 ![alt text](https://img.shields.io/npm/v/moment.svg?style=flat "moment")
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)<br>
