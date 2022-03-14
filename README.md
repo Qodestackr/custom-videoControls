@@ -5,7 +5,7 @@
 Does your GitHub Graph looks like a noob with a few number of Commits and Push ? Do you want to have your contribution graph with lots of commit like pro. This project is to your rescue.
 
 ## Table of Contents
-
+ 
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Commits](#frequency)
