@@ -33,7 +33,7 @@ Finally, run the project to see the magic of Moment package.
 ```javascript
 node index.js
 ```
-
+ 
 Bang !
 You can see the commit date in terminal.
 
