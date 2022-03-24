@@ -31,7 +31,6 @@ Finally, run the project to see the magic of Moment package.
 ```javascript
 node index.js
 ```
- 
 Bang !
 You can see the commit date in terminal.
 
@@ -40,7 +39,6 @@ You can see the commit date in terminal.
 ```javascript
 subtract(year, "y");
 ```
-
 year here represents the year to start the commits. Greater the value of year, more dense the graph along main axis. Example - subtract(2,'y')
 
 ```javascript
