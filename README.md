@@ -6,7 +6,9 @@ Does your GitHub Graph looks like a noob with a few number of Commits and Push ?
 
 ## Table of Contents
 - [Introduction](#introduction)
+
 - [Installation](#installation)
+
 - [Commits](#frequency)
  
 ### Introduction
