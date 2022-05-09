@@ -10,3 +10,4 @@ Build a custom HTML5 video player with JavaScript. Features:
 - Picture-in-Picture
 - Custom controls
 - Keyboard shortcuts
+
